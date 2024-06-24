@@ -1,0 +1,45 @@
+
+#article{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+
+
+}
+
+.article-infos h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 12px;
+  
+}
+
+.article-infos h3{
+  font-size: 20px;
+  font-weight:400;
+  color: darkgrey; 
+  margin-bottom: 1rem; 
+
+}
+
+.article-infos p{
+    font-size: 1rem;
+    font-weight: 400;
+   
+}
+
+#botto_modal{
+    border: darkgreen solid 1px;
+    color: aliceblue;
+    
+}
+
+ #bottom_closer{
+   display: flex;
+   align-items: center;
+}
+
+
+
+
+

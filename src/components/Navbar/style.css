@@ -1,0 +1,42 @@
+
+header{
+    background-color: #333333;
+    box-shadow: 0 4px 7px rgb(0,0,0,0.25);
+    height: 5.5rem;
+}
+header nav#navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 2rem;
+
+}
+
+header nav#navbar .nav-brand{
+  display: flex;
+  align-items: center;
+  
+}
+
+header nav#navbar ul.nav-list{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 2rem;
+
+}
+
+header nav#navbar ul.nav-list li a {
+    font-style: oblique;
+    font-size: 1.1rem;
+    color: #a8a7a7;
+    transform: color 0,5s;
+
+}
+
+header nav#navbar ul.nav-list li a:hover {
+    color: #ffff;
+    transform: color 0,5s;
+}

@@ -1,0 +1,28 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #222222;
+    color: azure;
+}
+
+a{
+    text-decoration: none;
+}
+
+section#article{
+    max-width: 1240px;
+    padding: 0 2rem;
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+
+
+
