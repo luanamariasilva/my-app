@@ -10,7 +10,7 @@ import "./style.css";
             <nav id="navbar">
                 <div className="nav-brand">
                     <img src={logo} alt="planetas" width={55} />
-                    <h1>Space Flight News</h1>
+                    <h1>New Reposts Now</h1>
                 </div>
     
             <ul className="nav-list">
